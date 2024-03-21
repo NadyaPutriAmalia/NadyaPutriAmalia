@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Nadya
+Student Polytechnic State Of Malang
 
 <!--
 **NadyaPutriAmalia/NadyaPutriAmalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
